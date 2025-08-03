@@ -1,5 +1,5 @@
 # Predictive-Maintenance-MedicalDevices
-![img](1.png)
+![img](1.webp)
 
 ## 📁 Project Structure
 ```
